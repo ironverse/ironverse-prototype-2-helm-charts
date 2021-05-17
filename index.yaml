@@ -3,7 +3,17 @@ entries:
   webservice:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2021-05-16T20:45:26.190811339-04:00"
+    created: "2021-05-16T21:49:16.112347601-04:00"
+    description: A Helm chart for Kubernetes
+    digest: dd0681bb20e84542a0931be650e3f18b7ab25333c27bf5046fef2b8a2c3dc783
+    name: webservice
+    type: application
+    urls:
+    - webservice-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2021-05-16T21:49:16.111748038-04:00"
     description: A Helm chart for Kubernetes
     digest: ac529411ba3ccda9a3cf47cfff7325b23b43195cee49f34f8a736781d8ecf750
     name: webservice
@@ -11,4 +21,4 @@ entries:
     urls:
     - webservice-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-16T20:45:26.190102182-04:00"
+generated: "2021-05-16T21:49:16.110482657-04:00"
