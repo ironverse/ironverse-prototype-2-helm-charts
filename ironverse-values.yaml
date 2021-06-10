@@ -1,0 +1,6 @@
+image:
+  repository: registry.digitalocean.com/ironverse/ironverse
+  tag: 762c0d1
+
+imagePullSecrets:
+- name: regcred
