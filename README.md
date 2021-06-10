@@ -2,5 +2,9 @@
 
 ## package a chart
 
-`helm package webservice/`
+`helm package ironverse/`
 `helm repo index .`
+
+## create a chart
+
+`helm create chart`
