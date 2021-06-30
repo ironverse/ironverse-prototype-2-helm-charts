@@ -39,6 +39,16 @@ spec:
                 secretKeyRef:
                   name: ironverse-database-url
                   key:  database_url
+            - name: "SENDGRID_API_KEY"
+              valueFrom:
+                secretKeyRef:
+                  name: ironverse-sendgrid-api-key
+                  key:  sendgrid_api_key
+            - name: "STRIPE_API_KEY"
+              valueFrom:
+                secretKeyRef:
+                  name: ironverse-stripe-api-key
+                  key:  stripe_api_key
             - name: "PRIVATE_HOST"
               value: "localhost"
             - name: "PRIVATE_PORT"

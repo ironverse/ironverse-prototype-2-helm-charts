@@ -3,7 +3,17 @@ entries:
   ironverse:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2021-06-10T11:46:49.436219409-04:00"
+    created: "2021-06-30T19:01:53.419615344-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 359273a51411aecf89ca54281a263b981f07ee8bd3202d95a092aa49727f07a5
+    name: ironverse
+    type: application
+    urls:
+    - ironverse-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2021-06-30T19:01:53.418474968-04:00"
     description: A Helm chart for Kubernetes
     digest: cf395a99849d68586d7db51c8388cbfd480c2580d69abb53d5e0a63f1c4216b0
     name: ironverse
@@ -14,7 +24,7 @@ entries:
   webservice:
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2021-06-10T11:46:49.438571005-04:00"
+    created: "2021-06-30T19:01:53.422235053-04:00"
     description: A Helm chart for Kubernetes
     digest: dd0681bb20e84542a0931be650e3f18b7ab25333c27bf5046fef2b8a2c3dc783
     name: webservice
@@ -24,7 +34,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2021-06-10T11:46:49.43818985-04:00"
+    created: "2021-06-30T19:01:53.42090698-04:00"
     description: A Helm chart for Kubernetes
     digest: ac529411ba3ccda9a3cf47cfff7325b23b43195cee49f34f8a736781d8ecf750
     name: webservice
@@ -32,4 +42,4 @@ entries:
     urls:
     - webservice-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-10T11:46:49.435775798-04:00"
+generated: "2021-06-30T19:01:53.416989566-04:00"
